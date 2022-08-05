@@ -20,3 +20,4 @@ Dizinin başlangıç elemanı 7 olduğu için root 7’dir.
 
 2, 7 ve 5’ten küçük, 1’den büyük ve 3’ten küçük olduğu için 3’ün soluna gelir.
 
+![](https://raw.githubusercontent.com/inantan/Patika-dev-Sort-Projeleri/main/grsl1.png)
